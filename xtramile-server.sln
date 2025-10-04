@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xtramile-server", "xtramile-server\xtramile-server.csproj", "{6B5AA85F-916A-4E6F-9616-1BDF0A9C650E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xtramile-server.Tests", "xtramile-server.Tests\xtramile-server.Tests.csproj", "{223A634D-87FD-4CB8-B226-559F4C4610AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B5AA85F-916A-4E6F-9616-1BDF0A9C650E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5AA85F-916A-4E6F-9616-1BDF0A9C650E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5AA85F-916A-4E6F-9616-1BDF0A9C650E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5AA85F-916A-4E6F-9616-1BDF0A9C650E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223A634D-87FD-4CB8-B226-559F4C4610AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223A634D-87FD-4CB8-B226-559F4C4610AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223A634D-87FD-4CB8-B226-559F4C4610AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223A634D-87FD-4CB8-B226-559F4C4610AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F743462F-A3ED-4A09-95FA-B99D258AF0F5}
+	EndGlobalSection
+EndGlobal
