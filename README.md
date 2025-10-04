@@ -11,9 +11,11 @@ Small Web API:
 Set your OpenWeather key. For local, included in appsettings already.
 
 # Run
+```
 cd xtramile-server
 dotnet dev-certs https --trust
 dotnet run --launch-profile https
+```
 
 # Endpoints
 Open API or Swagger (Development): https://localhost:7297/swagger
